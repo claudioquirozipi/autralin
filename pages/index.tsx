@@ -17,7 +17,7 @@ export default function Home() {
       <main>
         <img src="./logo.jpg" alt="" className={styles.logo} />
 
-        <h1>INTRODUCCION</h1>
+        <h1>INTRODUCCION ❤</h1>
         <p>
           Bienvenido a Austral.in, la empresa líder en creación de sitios web y
           desarrollo de páginas ecommerce. Con más de 10 años de experiencia en
