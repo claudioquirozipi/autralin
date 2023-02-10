@@ -20,6 +20,7 @@ export default function Blog() {
         <div className={styles.text}>
           <h1>Blogs</h1>
           <p>
+            Hola Soy Robert
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint hic
             molestias ipsa vel, reprehenderit commodi, ratione harum doloribus
             perferendis corrupti quis incidunt adipisci quaerat totam voluptate
