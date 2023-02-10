@@ -15,7 +15,6 @@ export default function BlogDetail() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <img src="./logo.jpg" alt="" className={styles.logo} />
         <div className={styles.text}>
           <h1>blog id</h1>
           <p>
