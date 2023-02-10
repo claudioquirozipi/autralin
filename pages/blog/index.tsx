@@ -16,15 +16,13 @@ export default function Blog() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <img src="./logo.jpg" alt="" className={styles.logo} />
         <div className={styles.text}>
           <h1>Blogs</h1>
           <p>
-            Hola Soy Robert
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint hic
-            molestias ipsa vel, reprehenderit commodi, ratione harum doloribus
-            perferendis corrupti quis incidunt adipisci quaerat totam voluptate
-            numquam facere? Ipsa, veniam?
+            Hola Soy Robert Lorem ipsum dolor sit amet consectetur adipisicing
+            elit. Sint hic molestias ipsa vel, reprehenderit commodi, ratione
+            harum doloribus perferendis corrupti quis incidunt adipisci quaerat
+            totam voluptate numquam facere? Ipsa, veniam?
           </p>
         </div>
       </main>

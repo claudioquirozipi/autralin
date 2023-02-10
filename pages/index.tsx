@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Inter } from "@next/font/google";
 import { Layout } from "@/components/layout";
 import styles from "../styles/home.module.css";
+import Image from "next/image";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,7 +16,13 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <img src="./logo.jpg" alt="" className={styles.img} />
+        <Image
+          src="/logo.jpg"
+          className={styles.img}
+          alt="Picture of the author"
+          width={500}
+          height={500}
+        />
 
         <div className={styles.text}>
           <h1>INTRODUCCION</h1>
